@@ -1,0 +1,15 @@
+.heading {
+  color: red;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.para {
+  color: #0952be ;
+  font-family: "Roboto", sans-serif;
+  font-size: 100px;
+  font-weight: 900;
+  text-decoration: overline;
+  text-align: end;
+}
