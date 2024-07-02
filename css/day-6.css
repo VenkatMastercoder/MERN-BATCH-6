@@ -1,0 +1,26 @@
+.heading {
+  background-color: aqua;
+}
+
+.paragraph {
+  background-color: #d823e8;
+}
+
+.bg-img {
+  background-image: url('../assets/APPLE.jpeg');
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bg-color {
+  background-color: #d823e8;
+  opacity: 1;
+}
+
+.model {
+  background-color: red;
+  width: 100vw;
+  height: 100px;
+  padding: 5px
+}
